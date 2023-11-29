@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-[ADS link](
+Here you can find a list of all my publications: [ADS link](
 https://ui.adsabs.harvard.edu/user/libraries/1ryuxALvQN2rWE-86p4lCQ)
 
 {% if author.googlescholar %}

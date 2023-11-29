@@ -8,17 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Sebastian Zieba
-PhD student at MPIA, Heidelberg (Germany)
+**Sebastian Zieba**
+-------------------
+
+(last year) PhD student at MPIA, Heidelberg (Germany)
+
 My research revolves around the characterization of exoplanets with space telescopes like Spitzer, Hubble, JWST, and the discovery of exocomets with TESS.
 
 Contact
 -------
 
-My email: 
-zieba@mpia.de
+*email:*
+ 
+zieba (at) mpia.de
 
-address:
+*address:*
+
 Max-Planck-Institut für Astronomie
 Sebastian Zieba
 Königstuhl 17
@@ -29,4 +34,4 @@ About me
 
 I grew up in Salzburg, Austria. After finishing high school, I moved to Innsbruck (Austria) to do my Bachelor and Master in Physics and Astrophysics, respectively. I am currently living in Heidelberg and a PhD student at MPIA.
 
-Last update: August 2022
+Last update: November 2023
