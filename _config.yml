@@ -84,7 +84,7 @@ author:
   avatar           : "profile6.png"
   bio              : "Characterization of exoplanets with space based telescopes"
   location         : "Heidelberg, Germany"
-  employer         : Max Planck Institute for Astronomy and Leiden Observatory 
+  employer         : #Max Planck Institute for Astronomy and Leiden Observatory 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=U-i9TF4AAAAJ&hl=en"
   email            :
