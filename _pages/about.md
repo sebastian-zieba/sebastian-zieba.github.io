@@ -18,11 +18,12 @@ Contact
 *email:*  
 zieba (at) mpia.de
 
-*address:*<br>
-Max-Planck-Institut für Astronomie
-Sebastian Zieba
-Königstuhl 17
-69117 Heidelberg
+*address:*  
+Sebastian Zieba  
+Max-Planck-Institut für Astronomie  
+Königstuhl 17  
+69117 Heidelberg  
+GERMANY  
 
 About me
 --------
