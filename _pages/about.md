@@ -10,7 +10,13 @@ redirect_from:
 
 (last year) PhD student at MPIA, Heidelberg, Germany
 
-My research revolves around the characterization of exoplanets with space telescopes like Spitzer, Hubble, JWST, and the discovery of exocomets with TESS.
+My research revolves around the characterization of exoplanets with space telescopes like Spitzer, Hubble, JWST, and the discovery of exocomets with TESS.  
+My previous work includes:  
+- non-detection of a thick CO2 atmosphere on TRAPPIST-1 c  
+- PACMAN: a pipeline to reduce and analyze Hubble WCF3 data  
+- Analysis of the lava planet K2-141 b  
+- Detection of exocomets around beta Pictoris with TESS  
+
 
 Contact
 -------

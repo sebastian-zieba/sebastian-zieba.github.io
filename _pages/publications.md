@@ -14,20 +14,20 @@ https://ui.adsabs.harvard.edu/user/libraries/1ryuxALvQN2rWE-86p4lCQ)
 {% endif %}
 
 
-No thick carbon dioxide atmosphere on the rocky exoplanet TRAPPIST-1 c
+2023: No thick carbon dioxide atmosphere on the rocky exoplanet TRAPPIST-1 c
 ----------------------------------------------------------------------
 
 
-PACMAN: A pipeline to reduce and analyze Hubble Wide Field Camera 3 IR Grism data
+2022: PACMAN: A pipeline to reduce and analyze Hubble Wide Field Camera 3 IR Grism data
 ---------------------------------------------------------------------------------
 
 
-K2 and Spitzer phase curves of the rocky ultra-short-period planet K2-141 b hint at a tenuous rock vapor atmosphere
+2022: K2 and Spitzer phase curves of the rocky ultra-short-period planet K2-141 b hint at a tenuous rock vapor atmosphere
 -------------------------------------------------------------------------------------------------------------------
 
 
 
-Transiting exocomets detected in broadband light by TESS in the β Pictoris system
+2019: Transiting exocomets detected in broadband light by TESS in the β Pictoris system
 ---------------------------------------------------------------------------------
 
 
