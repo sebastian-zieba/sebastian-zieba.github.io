@@ -34,7 +34,7 @@ GERMANY
 About me
 --------
 
-I grew up in Salzburg, Austria. After finishing high school, I moved to Innsbruck (Austria) to do my Bachelor and Master in Physics and Astrophysics, respectively. I am currently living in Heidelberg and a PhD student at the MPIA (APEx department).
+I grew up in Salzburg, Austria. After finishing high school, I moved to Innsbruck (Austria) to do my bachelor's and master's in Physics and Astrophysics, respectively. I am currently living in Heidelberg and a PhD student at the MPIA (APEx department).
 
 
 (last revised November 30th, 2023)
