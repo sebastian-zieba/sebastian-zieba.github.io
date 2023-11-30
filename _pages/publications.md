@@ -44,44 +44,16 @@ https://pacmandocs.readthedocs.io/en/latest/). If you want to use it for your ob
 
 In this work, we analysed Spitzer and Kepler observations to analyse the lava planet K2-141 b. Below you can see the K2 and Spitzer phase curves for the planet. We find no significant hotspot offset for the planet (no thick, low molecular weight atmosphere). However, highly irradiated rocky planets like K2-141 b will experience outgassing from their surfaces and the creation of a thin rock vapor atmosphere. Atmospheric modeling shows us that certain species in these rock vapor atmospheres like sodium can create a thermal inversion in the optical wavelengths. This scenario is consistent with our analysis of the observations as we observed a significant emission in the Kepler bandpass.
 
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; text-align: center;">
-
-
-  <figure>
-    <img src="/images/k2.png" alt="First Image">
-    <figcaption>Phase folded K2 observations</figcaption>
-  </figure>
-
-  <figure>
-    <img src="/images/spitzer.png" alt="Second Image">
-    <figcaption>Phase folded Spitzer observations</figcaption>
-  </figure>
-
-</div>
-
-
-Copy code
-<div style="display: flex; justify-content: space-around; text-align: center;">
-  <figure style="flex: 1;">
-    <img src="/images/k2.png" alt="First Image">
-    <figcaption style="margin-top: 10px;">Phase folded K2 observations</figcaption>
-  </figure>
-
-  <figure style="flex: 1;">
-    <img src="/images/spitzer.png" alt="Second Image">
-    <figcaption style="margin-top: 10px;">Phase folded Spitzer observations</figcaption>
-  </figure>
-</div>
 
 
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; text-align: center;">
   <figure>
-    <img src="/images/k2.png" alt="First Image" style="width: 90%;">
+    <img src="/images/k2.png" alt="First Image" style="width: 87%;">
     <figcaption>Phase folded K2 observations</figcaption>
   </figure>
 
   <figure>
-    <img src="/images/spitzer.png" alt="Second Image" style="width: 110%;">
+    <img src="/images/spitzer.png" alt="Second Image" style="width: 113%;">
     <figcaption>Phase folded Spitzer observations</figcaption>
   </figure>
 
