@@ -17,9 +17,9 @@ https://ui.adsabs.harvard.edu/user/libraries/1ryuxALvQN2rWE-86p4lCQ)
 2023: No thick carbon dioxide atmosphere on the rocky exoplanet TRAPPIST-1 c
 ----------------------------------------------------------------------------
 
-This artist’s concept shows what the hot rocky exoplanet TRAPPIST-1 c could look like based on this work.  
+This artist’s concept shows what the hot rocky exoplanet TRAPPIST-1 c could look like based on this work.
+![artist impression of TRAPPIST-1 c](/images/stsci-01h2tjpnhw1319q5kgct205kex.webp)  
 *Credits: NASA, ESA, CSA, Joseph Olmsted (STScI)*
-![artist impression of TRAPPIST-1 c](/images/stsci-01h2tjpnhw1319q5kgct205kex.webp)
 
 Check out the press releases to this work:  
 [NASA press release](https://www.nasa.gov/universe/webb-rules-out-thick-carbon-dioxide-atmosphere-for-rocky-exoplanet/)  
@@ -64,6 +64,9 @@ In this work, we analysed Spitzer and Kepler observations to analyse the lava pl
 
 2019: Transiting exocomets detected in broadband light by TESS in the β Pictoris system
 ---------------------------------------------------------------------------------------
+
+![exocomet](/images/exocomet_fig.png)  
+Best-fit comet model. Top panel: The binned photometry showing the largest transit event. The vertical dashes are the error bars on the photometry. The red line shows the best fit model for b = 0 (i.e. the median of the parameters shown in Fig. 4). The lower panel shows the residuals from the fit.
 
 [astronomy.com article (in English)](https://www.astronomy.com/science/tess-spots-its-first-exocomet-around-one-of-the-skys-brightest-stars/)  
 
