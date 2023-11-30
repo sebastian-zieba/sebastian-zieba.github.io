@@ -44,7 +44,8 @@ https://pacmandocs.readthedocs.io/en/latest/). If you want to use it for your ob
 
 In this work, we analysed Spitzer and Kepler observations to analyse the lava planet K2-141 b. Below you can see the K2 and Spitzer phase curves for the planet. We find no significant hotspot offset for the planet (no thick, low molecular weight atmosphere). However, highly irradiated rocky planets like K2-141 b will experience outgassing from their surfaces and the creation of a thin rock vapor atmosphere. Atmospheric modeling shows us that certain species in these rock vapor atmospheres like sodium can create a thermal inversion in the optical wavelengths. This scenario is consistent with our analysis of the observations as we observed a significant emission in the Kepler bandpass.
 
-<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: flex-start; text-align: center;">
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; text-align: center;">
+
 
   <figure>
     <img src="/images/k2.png" alt="First Image">
@@ -65,8 +66,8 @@ In this work, we analysed Spitzer and Kepler observations to analyse the lava pl
 2019: Transiting exocomets detected in broadband light by TESS in the β Pictoris system
 ---------------------------------------------------------------------------------------
 
-![exocomet](/images/exocomet_fig.png)  
-Best-fit comet model. Top panel: The binned photometry showing the largest transit event. The vertical dashes are the error bars on the photometry. The red line shows the best fit model for b = 0 (i.e. the median of the parameters shown in Fig. 4). The lower panel shows the residuals from the fit.
+![exocomet](/images/exocomet_fig.png)
+**Best-fit comet model.** Top panel: The binned photometry showing the largest transit event. The vertical dashes are the error bars on the photometry. The red line shows the best fit model for b = 0 (i.e. the median of the parameters shown in Fig. 4). The lower panel shows the residuals from the fit.
 
 [astronomy.com article (in English)](https://www.astronomy.com/science/tess-spots-its-first-exocomet-around-one-of-the-skys-brightest-stars/)  
 
