@@ -75,3 +75,5 @@ In this work, we analysed Spitzer and Kepler observations to analyse the lava pl
 [ADS link to paper here](https://ui.adsabs.harvard.edu/abs/2019A%26A...625L..13Z/abstract)
 
 
+(last revised November 30th, 2023)
+

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-(last year) PhD student at MPIA, Heidelberg, Germany
+(last year) PhD student at the MPIA, Heidelberg, Germany and Leiden Observatory, The Netherlands
 
 My research revolves around the characterization of exoplanets with space telescopes like Spitzer, Hubble, JWST, and the discovery of exocomets with TESS.  
 My previous work includes:  
@@ -36,4 +36,5 @@ About me
 
 I grew up in Salzburg, Austria. After finishing high school, I moved to Innsbruck (Austria) to do my Bachelor and Master in Physics and Astrophysics, respectively. I am currently living in Heidelberg and a PhD student at the MPIA (APEx department).
 
-Last update: November 2023
+
+(last revised November 30th, 2023)
