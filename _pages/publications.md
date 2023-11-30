@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Here you can find a list of all my publications: [ADS link](
+Here you can find a list of all my publications: [Astrophysics Data System (ADS) link](
 https://ui.adsabs.harvard.edu/user/libraries/1ryuxALvQN2rWE-86p4lCQ)
 
 {% if author.googlescholar %}
@@ -44,34 +44,33 @@ https://pacmandocs.readthedocs.io/en/latest/). If you want to use it for your ob
 
 In this work, we analysed Spitzer and Kepler observations to analyse the lava planet K2-141 b. Below you can see the K2 and Spitzer phase curves for the planet. We find no significant hotspot offset for the planet (no thick, low molecular weight atmosphere). However, highly irradiated rocky planets like K2-141 b will experience outgassing from their surfaces and the creation of a thin rock vapor atmosphere. Atmospheric modeling shows us that certain species in these rock vapor atmospheres like sodium can create a thermal inversion in the optical wavelengths. This scenario is consistent with our analysis of the observations as we observed a significant emission in the Kepler bandpass.
 
-![PACMAN_logo](/images/k2.png)
-![PACMAN_logo](/images/spitzer.png)
-
-<figure>
-  <img src="/images/k2.png" alt="First Image">
-  <figcaption>Phase folded K2 observations</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/spitzer.png" alt="Second Image">
-  <figcaption>Phase folded Spitzer observations</figcaption>
-</figure>
-
-
 <div style="display: flex; justify-content: space-between;">
 
   <figure>
     <img src="/images/k2.png" alt="First Image">
-    <figcaption>Caption for the first image</figcaption>
+    <figcaption>Phase folded K2 observations</figcaption>
   </figure>
 
   <figure>
     <img src="/images/spitzer.png" alt="Second Image">
-    <figcaption>Caption for the second image</figcaption>
+    <figcaption>Phase folded Spitzer observations</figcaption>
   </figure>
 
 </div>
 
+
+figure {
+    display: inline-block;
+    border: 1px dotted gray;
+    margin: 20px; /* adjust as needed */
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    border: 1px dotted blue;
+    text-align: center;
+}
 
 [Download paper here](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..79Z/abstract)
 

@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to view my CV](https://sebastian-zieba.github.io/files/zieba_CV_Nov_29_2023.pdf)
-
+[Click here to view my CV](https://sebastian-zieba.github.io/files/zieba_CV_Nov_29_2023.pdf)  
 [Click here to view my List of publications](https://sebastian-zieba.github.io/files/zieba_list_of_publications_Nov_29_2023.pdf)
+
+Summary of my publications
+--------------------------
 
 **4** First author publications  
 **19** Refereed publications  
