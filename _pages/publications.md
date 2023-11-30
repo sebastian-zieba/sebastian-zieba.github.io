@@ -17,7 +17,8 @@ https://ui.adsabs.harvard.edu/user/libraries/1ryuxALvQN2rWE-86p4lCQ)
 2023: No thick carbon dioxide atmosphere on the rocky exoplanet TRAPPIST-1 c
 ----------------------------------------------------------------------------
 
-This artist’s concept shows what the hot rocky exoplanet TRAPPIST-1 c could look like based on this work. Credits: NASA, ESA, CSA, Joseph Olmsted (STScI)
+This artist’s concept shows what the hot rocky exoplanet TRAPPIST-1 c could look like based on this work.  
+Credits: NASA, ESA, CSA, Joseph Olmsted (STScI)
 ![artist impression of TRAPPIST-1 c](/images/stsci-01h2tjpnhw1319q5kgct205kex.webp)
 
 Check out the press releases to this work:  
@@ -45,6 +46,16 @@ In this work, we analysed Spitzer and Kepler observations to analyse the lava pl
 
 ![PACMAN_logo](/images/k2.png)
 ![PACMAN_logo](/images/spitzer.png)
+
+<figure>
+  <img src="/images/k2.png" alt="First Image">
+  <figcaption>Phase folded K2 observations</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/spitzer.png" alt="Second Image">
+  <figcaption>Phase folded Spitzer observations</figcaption>
+</figure>
 
 [Download paper here](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..79Z/abstract)
 
