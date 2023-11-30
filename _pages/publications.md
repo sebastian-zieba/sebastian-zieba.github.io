@@ -18,7 +18,7 @@ https://ui.adsabs.harvard.edu/user/libraries/1ryuxALvQN2rWE-86p4lCQ)
 ----------------------------------------------------------------------------
 
 This artist’s concept shows what the hot rocky exoplanet TRAPPIST-1 c could look like based on this work.  
-Credits: NASA, ESA, CSA, Joseph Olmsted (STScI)
+*Credits: NASA, ESA, CSA, Joseph Olmsted (STScI)*
 ![artist impression of TRAPPIST-1 c](/images/stsci-01h2tjpnhw1319q5kgct205kex.webp)
 
 Check out the press releases to this work:  
@@ -37,14 +37,14 @@ https://pacmandocs.readthedocs.io/en/latest/). If you want to use it for your ob
 
 ![PACMAN_logo](/images/Pacman_V2.gif)
 
-[Download paper here](https://ui.adsabs.harvard.edu/abs/2022JOSS....7.4838Z/abstract)
+[ADS link to paper here](https://ui.adsabs.harvard.edu/abs/2022JOSS....7.4838Z/abstract)
 
 2022: K2 and Spitzer phase curves of the rocky ultra-short-period planet K2-141 b hint at a tenuous rock vapor atmosphere
 -------------------------------------------------------------------------------------------------------------------------
 
 In this work, we analysed Spitzer and Kepler observations to analyse the lava planet K2-141 b. Below you can see the K2 and Spitzer phase curves for the planet. We find no significant hotspot offset for the planet (no thick, low molecular weight atmosphere). However, highly irradiated rocky planets like K2-141 b will experience outgassing from their surfaces and the creation of a thin rock vapor atmosphere. Atmospheric modeling shows us that certain species in these rock vapor atmospheres like sodium can create a thermal inversion in the optical wavelengths. This scenario is consistent with our analysis of the observations as we observed a significant emission in the Kepler bandpass.
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: flex-start; text-align: center;">
 
   <figure>
     <img src="/images/k2.png" alt="First Image">
@@ -58,25 +58,20 @@ In this work, we analysed Spitzer and Kepler observations to analyse the lava pl
 
 </div>
 
+[Poster summarizing this work](https://sebastian-zieba.github.io/files/poster_k2141b.pdf)
 
-figure {
-    display: inline-block;
-    border: 1px dotted gray;
-    margin: 20px; /* adjust as needed */
-}
-figure img {
-    vertical-align: top;
-}
-figure figcaption {
-    border: 1px dotted blue;
-    text-align: center;
-}
-
-[Download paper here](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..79Z/abstract)
+[ADS link to paper here](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..79Z/abstract)
 
 2019: Transiting exocomets detected in broadband light by TESS in the β Pictoris system
 ---------------------------------------------------------------------------------------
 
-[Download paper here](https://ui.adsabs.harvard.edu/abs/2019A%26A...625L..13Z/abstract)
+[astronomy.com article (in English)](https://www.astronomy.com/science/tess-spots-its-first-exocomet-around-one-of-the-skys-brightest-stars/)  
+
+[Der Standard article (in German)](https://www.derstandard.de/story/2000103698443/tiroler-student-entdeckte-drei-exokometen-um-den-stern-beta-pictoris)  
+[University of Innsbruck press release (in German)](https://www.uibk.ac.at/archive/public-relations/presse/archiv/2019/1149/)  
+
+[Poster summarizing this work (presented at TESSCon I)](https://sebastian-zieba.github.io/files/poster_exocomets.pdf)
+
+[ADS link to paper here](https://ui.adsabs.harvard.edu/abs/2019A%26A...625L..13Z/abstract)
 
 
