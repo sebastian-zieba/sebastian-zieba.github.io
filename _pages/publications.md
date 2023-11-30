@@ -59,6 +59,35 @@ In this work, we analysed Spitzer and Kepler observations to analyse the lava pl
 
 </div>
 
+
+Copy code
+<div style="display: flex; justify-content: space-around; text-align: center;">
+  <figure style="flex: 1;">
+    <img src="/images/k2.png" alt="First Image">
+    <figcaption style="margin-top: 10px;">Phase folded K2 observations</figcaption>
+  </figure>
+
+  <figure style="flex: 1;">
+    <img src="/images/spitzer.png" alt="Second Image">
+    <figcaption style="margin-top: 10px;">Phase folded Spitzer observations</figcaption>
+  </figure>
+</div>
+
+
+<div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; text-align: center;">
+  <figure>
+    <img src="/images/k2.png" alt="First Image" style="width: 90%;">
+    <figcaption>Phase folded K2 observations</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/spitzer.png" alt="Second Image" style="width: 110%;">
+    <figcaption>Phase folded Spitzer observations</figcaption>
+  </figure>
+
+</div>
+
+
 [Poster summarizing this work](https://sebastian-zieba.github.io/files/poster_k2141b.pdf)
 
 [ADS link to paper here](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..79Z/abstract)
@@ -67,6 +96,7 @@ In this work, we analysed Spitzer and Kepler observations to analyse the lava pl
 ---------------------------------------------------------------------------------------
 
 ![exocomet](/images/exocomet_fig.png)
+
 **Best-fit comet model.** Top panel: The binned photometry showing the largest transit event. The vertical dashes are the error bars on the photometry. The red line shows the best fit model for b = 0 (i.e. the median of the parameters shown in Fig. 4). The lower panel shows the residuals from the fit.
 
 [astronomy.com article (in English)](https://www.astronomy.com/science/tess-spots-its-first-exocomet-around-one-of-the-skys-brightest-stars/)  
