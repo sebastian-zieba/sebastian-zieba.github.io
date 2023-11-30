@@ -24,7 +24,9 @@ This artist’s concept shows what the hot rocky exoplanet TRAPPIST-1 c could lo
 Check out the press releases to this work:  
 [NASA press release](https://www.nasa.gov/universe/webb-rules-out-thick-carbon-dioxide-atmosphere-for-rocky-exoplanet/)  
 [MPIA press release](https://www.mpg.de/20455810/searching-for-an-atmosphere-on-the-rocky-exoplanet-trappist-1-c)  
-[astrobites article](https://astrobites.org/2023/08/08/vibe-checking-trappist-1c/)  
+[astrobites article](https://astrobites.org/2023/08/08/vibe-checking-trappist-1c/)
+
+My Twitter (X) tread on the paper:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨 Newly published JWST results from the TRAPPIST-1 system! 🚨<br>We measured the light emitted from TRAPPIST-1 c, the second world in the seven-planet system, to directly learn about the planet’s atmosphere (or lack thereof…). 🧵 <a href="https://t.co/si8IW63yMC">pic.twitter.com/si8IW63yMC</a></p>&mdash; Sebastian Zieba (@sebizieba) <a href="https://twitter.com/sebizieba/status/1671973674562232340?ref_src=twsrc%5Etfw">June 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -63,6 +65,10 @@ In this work, we analysed Spitzer and Kepler observations to analyse the lava pl
 
 
 [Poster summarizing this work](https://sebastian-zieba.github.io/files/poster_k2141b.pdf)
+
+My Twitter (X) tread on the paper:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Paper submission day! Today my 1st first-author PhD paper dropped! 🥳 🥳 🥳 We used observations collected by Kepler and Spitzer to characterize the lava planet K2-141 b. Here are some hot facts about the best-studied lava planet to this day. (1/12)</p>&mdash; Sebastian Zieba (@sebizieba) <a href="https://twitter.com/sebizieba/status/1499005718078406656?ref_src=twsrc%5Etfw">March 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [ADS link to paper here](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..79Z/abstract)
 
