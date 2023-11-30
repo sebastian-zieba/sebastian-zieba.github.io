@@ -57,6 +57,22 @@ In this work, we analysed Spitzer and Kepler observations to analyse the lava pl
   <figcaption>Phase folded Spitzer observations</figcaption>
 </figure>
 
+
+<div style="display: flex; justify-content: space-between;">
+
+  <figure>
+    <img src="/images/k2.png" alt="First Image">
+    <figcaption>Caption for the first image</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/spitzer.png" alt="Second Image">
+    <figcaption>Caption for the second image</figcaption>
+  </figure>
+
+</div>
+
+
 [Download paper here](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..79Z/abstract)
 
 2019: Transiting exocomets detected in broadband light by TESS in the β Pictoris system
