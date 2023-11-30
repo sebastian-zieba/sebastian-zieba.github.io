@@ -26,6 +26,8 @@ Check out the press releases to this work:
 [MPIA press release](https://www.mpg.de/20455810/searching-for-an-atmosphere-on-the-rocky-exoplanet-trappist-1-c)  
 [astrobites article](https://astrobites.org/2023/08/08/vibe-checking-trappist-1c/)  
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨 Newly published JWST results from the TRAPPIST-1 system! 🚨<br>We measured the light emitted from TRAPPIST-1 c, the second world in the seven-planet system, to directly learn about the planet’s atmosphere (or lack thereof…). 🧵 <a href="https://t.co/si8IW63yMC">pic.twitter.com/si8IW63yMC</a></p>&mdash; Sebastian Zieba (@sebizieba) <a href="https://twitter.com/sebizieba/status/1671973674562232340?ref_src=twsrc%5Etfw">June 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 [ADS link to paper here](https://ui.adsabs.harvard.edu/abs/2023Natur.620..746Z/abstract)
 
 2022: PACMAN: A pipeline to reduce and analyze Hubble Wide Field Camera 3 IR Grism data
@@ -48,12 +50,12 @@ In this work, we analysed Spitzer and Kepler observations to analyse the lava pl
 
 <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; text-align: center;">
   <figure>
-    <img src="/images/k2.png" alt="First Image" style="width: 87%;">
+    <img src="/images/k2.png" alt="First Image" style="width: 85%;">
     <figcaption>Phase folded K2 observations</figcaption>
   </figure>
 
   <figure>
-    <img src="/images/spitzer.png" alt="Second Image" style="width: 113%;">
+    <img src="/images/spitzer.png" alt="Second Image" style="width: 115%;">
     <figcaption>Phase folded Spitzer observations</figcaption>
   </figure>
 
