@@ -89,5 +89,5 @@ My Twitter (X) thread on the paper:
 [ADS link to paper here](https://ui.adsabs.harvard.edu/abs/2019A%26A...625L..13Z/abstract)
 
 
-(last revised November 30th, 2023)
+(last revised January 4th, 2024)
 
