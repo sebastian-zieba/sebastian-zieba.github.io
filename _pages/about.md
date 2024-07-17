@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-(last year) PhD student at the MPIA, Heidelberg, Germany and Leiden Observatory, The Netherlands
+Postdoc at the MPIA, Heidelberg, Germany
 
-Later this year, I'll be joining the Smithsonian Astrophysical Observatory at the CfA as a [Sagan Fellow](https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2024/) to characterize the surfaces and atmospheres of rocky exoplanets using JWST.
+Starting September 2024, I'll be joining the Smithsonian Astrophysical Observatory at the CfA as a [Sagan Fellow](https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2024/) to characterize the surfaces and atmospheres of rocky exoplanets using JWST.
 
 My research revolves around the characterization of exoplanets with space telescopes like Spitzer, Hubble, JWST, and the discovery of exocomets with TESS.  
 My previous work includes:  
@@ -39,5 +39,5 @@ About me
 I grew up in Salzburg, Austria. After finishing high school, I moved to Innsbruck (Austria) to do my bachelor's and master's in Physics and Astrophysics, respectively. I am currently living in Heidelberg and a PhD student at the MPIA (APEx department).
 
 
-(last revised April 2th, 2024)
+(last revised July 17th, 2024)
 
