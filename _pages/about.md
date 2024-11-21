@@ -33,7 +33,7 @@ Center for Astrophysics, Harvard & Smithsonian
 Cambridge, MA 02138  
 USA
 
-*office:*
+*office:*  
 B-227 
 
 About me
