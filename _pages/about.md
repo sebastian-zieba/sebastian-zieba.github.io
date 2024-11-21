@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Postdoc at the MPIA, Heidelberg, Germany
+Postdoctoral researcher at the Center for Astrophysics | Harvard & Smithsonian (Cambridge, USA)
 
-Starting September 2024, I'll be joining the Smithsonian Astrophysical Observatory at the CfA as a [Sagan Fellow](https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2024/) to characterize the surfaces and atmospheres of rocky exoplanets using JWST.
+In September 2024, I joined the Smithsonian Astrophysical Observatory at the CfA as a [Sagan Fellow](https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2024/) to characterize the surfaces and atmospheres of rocky exoplanets using JWST.
 
 My research revolves around the characterization of exoplanets with space telescopes like Spitzer, Hubble, JWST, and the discovery of exocomets with TESS.  
 My previous work includes:  
@@ -24,20 +24,21 @@ Contact
 -------
 
 *email:*  
-zieba (at) mpia.de
+sebastian.zieba (at) cfa.harvard.edu
 
 *address:*  
 Sebastian Zieba  
-Max-Planck-Institut für Astronomie  
-Königstuhl 17  
-69117 Heidelberg  
-GERMANY  
+60 Garden Street
+Cambridge, MA 02138
+
+*office:*
+B-227 
 
 About me
 --------
 
-I grew up in Salzburg, Austria. After finishing high school, I moved to Innsbruck (Austria) to do my bachelor's and master's in Physics and Astrophysics, respectively. I am currently living in Heidelberg and a PhD student at the MPIA (APEx department).
+I grew up in Salzburg, Austria. After finishing high school, I moved to Innsbruck (Austria) to do my bachelor's and master's in Physics and Astrophysics, respectively. Between 2020 and 2024 I was living in Heidelberg being a PhD student at the MPIA (APEx department).
 
 
-(last revised July 17th, 2024)
+(last revised November 21st, 2024)
 
