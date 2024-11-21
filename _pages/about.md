@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral researcher at the Center for Astrophysics | Harvard & Smithsonian (Cambridge, USA)
+Postdoctoral researcher at the Center for Astrophysics, Harvard & Smithsonian (Cambridge, USA)
 
 In September 2024, I joined the Smithsonian Astrophysical Observatory at the CfA as a [Sagan Fellow](https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2024/) to characterize the surfaces and atmospheres of rocky exoplanets using JWST.
 
@@ -28,8 +28,10 @@ sebastian.zieba (at) cfa.harvard.edu
 
 *address:*  
 Sebastian Zieba  
-60 Garden Street
-Cambridge, MA 02138
+Center for Astrophysics, Harvard & Smithsonian  
+60 Garden Street  
+Cambridge, MA 02138  
+USA
 
 *office:*
 B-227 
