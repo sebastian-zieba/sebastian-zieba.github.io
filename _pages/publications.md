@@ -9,10 +9,6 @@ author_profile: true
 Here you can find a list of all my publications: [Astrophysics Data System (ADS) link](
 https://ui.adsabs.harvard.edu/user/libraries/1ryuxALvQN2rWE-86p4lCQ)
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 
 2024: THESIS: Pushing the characterization of exoplanet atmospheres down to temperate rocky planets in the era of JWST
 ----------------------------------------------------------------------------------------------------------------------
