@@ -14,10 +14,17 @@ https://ui.adsabs.harvard.edu/user/libraries/1ryuxALvQN2rWE-86p4lCQ)
 {% endif %}
 
 
+2024: THESIS: Pushing the characterization of exoplanet atmospheres down to temperate rocky planets in the era of JWST
+----------------------------------------------------------------------------------------------------------------------
+
+Leiden University hosts my doctoral thesis on their website, which is openly accessible [here](https://hdl.handle.net/1887/3765836).
+
+A day after I defended my PhD, an interview with me was published on the Leiden University website. In it, I discuss my research achievements throughout my doctoral studies, along with comments from colleagues in the field. You can read the full article on the [Leiden University website](https://www.universiteitleiden.nl/en/news/2024/06/looking-for-atmospheres-in-the-ultimate-quest-for-extraterrestrial-life).
+
 2023: No thick carbon dioxide atmosphere on the rocky exoplanet TRAPPIST-1 c
 ----------------------------------------------------------------------------
 
-This artist’s concept shows what the hot rocky exoplanet TRAPPIST-1 c could look like based on this work.
+This artist’s concept illustrates what the hot rocky exoplanet TRAPPIST-1 c could look like based on this work.
 ![artist impression of TRAPPIST-1 c](/images/stsci-01h2tjpnhw1319q5kgct205kex.webp)  
 *Credits: NASA, ESA, CSA, Joseph Olmsted (STScI)*
 
@@ -35,9 +42,9 @@ My Twitter (X) thread on the paper:
 2022: PACMAN: A pipeline to reduce and analyze Hubble Wide Field Camera 3 IR Grism data
 ---------------------------------------------------------------------------------------
 
-If you want to reduce some HST observations taken with one of the WFC3 Grisms (G102 or G141), check out PACMAN! It is an end-to-end pipeline, beginning with a time series of 2D images and ending with a spectrum for the planet. PACMAN can easily fit multiple observations simultaneously and is completely open source hosted on [GitHub](
+If you want to reduce some HST observations taken with one of the WFC3 Grisms (G102 or G141), check out PACMAN! It is an end-to-end pipeline, beginning with a time series of 2D images and ending with a spectrum for the planet. PACMAN can easily fit multiple observations simultaneously and is completely open source, hosted on [GitHub](
 https://github.com/sebastian-zieba/PACMAN) and [well-documented on ReadTheDocs](
-https://pacmandocs.readthedocs.io/en/latest/). If you want to use it for your observations and need help, don't hesitate to reach out!
+https://pacmandocs.readthedocs.io/en/latest/). If you'd like to use it for your observations and need assistance, please don't hesitate to reach out!
 
 ![PACMAN_logo](/images/Pacman_V2.gif)
 
@@ -46,7 +53,7 @@ https://pacmandocs.readthedocs.io/en/latest/). If you want to use it for your ob
 2022: K2 and Spitzer phase curves of the rocky ultra-short-period planet K2-141 b hint at a tenuous rock vapor atmosphere
 -------------------------------------------------------------------------------------------------------------------------
 
-In this work, we analysed Spitzer and Kepler observations to analyse the lava planet K2-141 b. Below you can see the K2 and Spitzer phase curves for the planet. We find no significant hotspot offset for the planet (no thick, low molecular weight atmosphere). However, highly irradiated rocky planets like K2-141 b will experience outgassing from their surfaces and the creation of a thin rock vapor atmosphere. Atmospheric modeling shows us that certain species in these rock vapor atmospheres like sodium can create a thermal inversion in the optical wavelengths. This scenario is consistent with our analysis of the observations as we observed a significant emission in the Kepler bandpass.
+In this work, we analyzed Spitzer and Kepler observations to study the lava planet K2-141 b. Below you can see the K2 and Spitzer phase curves for the planet. We find no significant hotspot offset for the planet (no thick, low molecular weight atmosphere). However, highly irradiated rocky planets like K2-141 b will experience outgassing from their surfaces and the creation of a thin rock vapor atmosphere. Atmospheric modeling shows us that certain species in these rock vapor atmospheres, like sodium, can create a thermal inversion in the optical wavelengths. This scenario is consistent with our analysis of the observations, as we observed a significant emission in the Kepler bandpass.
 
 
 
@@ -77,7 +84,7 @@ My Twitter (X) thread on the paper:
 
 ![exocomet](/images/exocomet_fig.png)
 
-**Best-fit comet model.** Top panel: The binned photometry showing the largest transit event. The vertical dashes are the error bars on the photometry. The red line shows the best fit model for b = 0 (i.e. the median of the parameters shown in Fig. 4). The lower panel shows the residuals from the fit.
+**Best-fit comet model.** Top panel: The binned photometry showing the largest transit event. The vertical dashes are the error bars on the photometry. The red line shows the best fit model for b = 0 (i.e., the median of the parameters shown in Fig. 4). The lower panel shows the residuals from the fit.
 
 [astronomy.com article (in English)](https://www.astronomy.com/science/tess-spots-its-first-exocomet-around-one-of-the-skys-brightest-stars/)  
 
