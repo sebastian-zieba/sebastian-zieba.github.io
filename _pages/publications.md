@@ -22,7 +22,7 @@ Using JWST’s mid-infrared instrument (MIRI), we observed the planet disappeari
 
 In this animation, you can see the data we collected for the planet and how the flux drops when the planet temporarily disappears behind its star.
 
-![JWST data collected from LHS 3844 b](/images/fig_animation_phasefolded_fig1_style3)
+![JWST data collected from LHS 3844 b](/images/fig_animation_phasefolded_fig1_style3.gif)
 *Credits: Sebastian Zieba (CfA)*
 
 Our observations suggest that the surface of LHS 3844 b is dark and likely basaltic, similar to volcanic rocks found on bodies like Mercury or the Moon. The surface may also be heavily altered by long-term space weathering from stellar radiation and micrometeorite impacts.
@@ -33,7 +33,10 @@ We are already continuing this work with additional JWST observations to better 
 
 📄 [Nature Astronomy paper](https://www.nature.com/articles/s41550-026-02860-3): 
 *The dark and featureless surface of rocky exoplanet LHS 3844 b from JWST mid-infrared spectroscopy*
+
 📄 [Open Access ArXiv link](https://arxiv.org/abs/2605.00100).
+
+[MPIA Press Release](https://www.mpg.de/26189037/astronomers-explore-the-surface-composition-of-a-nearby-super-earth)
 
 
 2024: Doctorate thesis: Pushing the characterization of exoplanet atmospheres down to temperate rocky planets in the era of JWST
