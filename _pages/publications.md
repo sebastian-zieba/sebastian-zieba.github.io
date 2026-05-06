@@ -16,7 +16,7 @@ My newest paper, published in Nature Astronomy, presents one of the first detail
 
 What makes this exciting is that we are beginning to move beyond simply asking whether rocky exoplanets have atmospheres. With JWST, we are now starting to directly study the geology and surface properties of worlds around other stars — something that was essentially impossible just a few years ago. This emerging field is sometimes called “exogeology.”
 
-The planet, LHS 3844 b, is located about 49 light-years away and orbits its small red dwarf star every 11 hours. It is roughly 30% larger than Earth and reaches dayside temperatures of around 1000 K (~700°C). In short: not exactly a nice place to live.
+The planet LHS 3844 b is located about 49 light-years away and orbits its small red dwarf star every 11 hours. It is roughly 30% larger than Earth and reaches dayside temperatures of around 1000 K (~700°C). In short: not exactly a nice place to live.
 
 Using JWST’s mid-infrared instrument (MIRI), we observed the planet disappearing behind its host star during so-called secondary eclipses. During those eclipses, the thermal emission from the planet temporarily vanishes, allowing us to isolate the planet’s own light. Even though the signal is tiny, JWST detected it extremely clearly.
 
@@ -29,7 +29,7 @@ Our observations suggest that the surface of LHS 3844 b is dark and likely basal
 
 At the same time, we do not find evidence for a substantial atmosphere or volcanic gases such as CO₂ or SO₂. The data therefore point toward a mostly bare rocky surface rather than an atmosphere-dominated planet. We can also rule out granite-like surface compositions similar to Earth’s continental crust, suggesting a very different geological history from our own planet.
 
-We are already continuing this work with additional JWST observations to better understand whether the planet’s surface is relatively fresh volcanic rock or an older surface covered in space-weathered regolith.
+We are continuing this work with additional JWST observations to better understand whether the planet’s surface is relatively fresh volcanic rock or an older surface covered in space-weathered regolith.
 
 📄 [Nature Astronomy paper](https://www.nature.com/articles/s41550-026-02860-3): 
 *The dark and featureless surface of rocky exoplanet LHS 3844 b from JWST mid-infrared spectroscopy*
@@ -39,7 +39,7 @@ We are already continuing this work with additional JWST observations to better 
 [MPIA Press Release](https://www.mpg.de/26189037/astronomers-explore-the-surface-composition-of-a-nearby-super-earth)
 
 
-2024: Doctorate thesis: Pushing the characterization of exoplanet atmospheres down to temperate rocky planets in the era of JWST
+2024: Doctoral thesis: Pushing the characterization of exoplanet atmospheres down to temperate rocky planets in the era of JWST
 ----------------------------------------------------------------------------------------------------------------------
 
 Leiden University hosts my doctoral thesis on their website, which is openly accessible [here](https://hdl.handle.net/1887/3765836).
@@ -68,8 +68,8 @@ My Twitter (X) thread on the paper:
 ---------------------------------------------------------------------------------------
 
 If you want to reduce some HST observations taken with one of the WFC3 Grisms (G102 or G141), check out PACMAN! It is an end-to-end pipeline, beginning with a time series of 2D images and ending with a spectrum for the planet. PACMAN can easily fit multiple observations simultaneously and is completely open source, hosted on [GitHub](
-https://github.com/sebastian-zieba/PACMAN) and [well-documented on ReadTheDocs](
-https://pacmandocs.readthedocs.io/en/latest/). If you'd like to use it for your observations and need assistance, please don't hesitate to reach out!
+https://github.com/sebastian-zieba/PACMAN), and [documented on ReadTheDocs](
+https://pacmandocs.readthedocs.io/en/latest/). If you would like to use PACMAN for your observations and have questions, feel free to reach out.
 
 ![PACMAN_logo](/images/Pacman_V2.gif)
 
@@ -121,5 +121,4 @@ My Twitter (X) thread on the paper:
 [ADS link to paper here](https://ui.adsabs.harvard.edu/abs/2019A%26A...625L..13Z/abstract)
 
 
-(last revised January 4th, 2024)
-
+(last revised May 6, 2026)

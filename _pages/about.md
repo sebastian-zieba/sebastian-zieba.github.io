@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral researcher (NASA Sagan Fellow) at the Center for Astrophysics, Harvard & Smithsonian (Cambridge, USA)
+Postdoctoral researcher (NASA Sagan Fellow) at the Center for Astrophysics | Harvard & Smithsonian (Cambridge, USA)
 
 In September 2024, I joined the Smithsonian Astrophysical Observatory at the CfA as a [NASA Sagan Fellow](https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2024/) to characterize the surfaces and atmospheres of rocky exoplanets using JWST.
 
-My research revolves around the characterization of exoplanets with space telescopes like Spitzer, Hubble, JWST, and the discovery of exocomets with TESS.  
-My previous work includes:  
-- non-detection of a thick CO2 atmosphere on **TRAPPIST-1 c**  
-- **PACMAN**: a pipeline to reduce and analyze Hubble WCF3 data  
-- Analysis of the **lava planet K2-141 b**  
-- Detection of **exocomets** around beta Pictoris with TESS  
+My research focuses on the characterization of exoplanets with space telescopes such as Spitzer, Hubble, JWST, and TESS. My work includes studies of rocky exoplanet atmospheres and surfaces, as well as the detection of exocomets.
+
+Some of my previous work includes:
+- Characterizing the **surface** of the hot rocky exoplanet LHS 3844 b
+- Non-detection of a thick CO₂ atmosphere on **TRAPPIST-1 c**
+- **PACMAN**: a pipeline to reduce and analyze Hubble WFC3 data
+- Analysis of the lava planet **K2-141 b**
+- Detection of **exocomets** around β Pictoris with TESS
 
 
 Contact
@@ -39,8 +41,8 @@ B-222
 About me
 --------
 
-I grew up in Salzburg, Austria. After finishing high school, I moved to Innsbruck (Austria) to do my bachelor's and master's in Physics and Astrophysics, respectively. Between 2020 and 2024 I was living in Heidelberg being a PhD student at the MPIA (APEx department).
+I grew up in Salzburg, Austria. After finishing high school, I moved to Innsbruck to study physics and astrophysics. Between 2020 and 2024, I lived in Heidelberg, Germany, where I was a PhD student at the Max Planck Institute for Astronomy (MPIA) in the Atmospheric Physics of Exoplanets (APEx) department. I now work in Cambridge, Massachusetts, as a NASA Sagan Fellow.
 
 
-(last revised November 07th, 2025)
+(last revised May 6th, 2026)
 
