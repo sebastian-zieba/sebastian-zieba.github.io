@@ -36,8 +36,13 @@ We are continuing this work with additional JWST observations to better understa
 
 📄 [Open Access ArXiv link](https://arxiv.org/abs/2605.00100).
 
+Below are some Press Releases on this publication, with each of those containing quotes from my brilliant co-authors.
+
 [MPIA Press Release](https://www.mpg.de/26189037/astronomers-explore-the-surface-composition-of-a-nearby-super-earth)
 
+[UChicago Press Release](https://news.uchicago.edu/story/scientists-get-best-ever-look-distant-planets-surface-webb-telescope)
+
+[Penn State Press Release](https://www.psu.edu/news/eberly-college-science/story/first-look-distant-rocky-planet-reveals-moon-world)
 
 2024: Doctoral thesis: Pushing the characterization of exoplanet atmospheres down to temperate rocky planets in the era of JWST
 ----------------------------------------------------------------------------------------------------------------------
