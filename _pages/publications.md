@@ -10,7 +10,33 @@ Here you can find a list of all my publications: [Astrophysics Data System (ADS)
 https://ui.adsabs.harvard.edu/user/libraries/1ryuxALvQN2rWE-86p4lCQ)
 
 
-2024: THESIS: Pushing the characterization of exoplanet atmospheres down to temperate rocky planets in the era of JWST
+2026: Characterizing the surface of the hot, rocky exoplanet LHS 3844 b with JWST
+---------------------------------------------------------------------------------
+My newest paper, published in Nature Astronomy, presents one of the first detailed studies of the surface of a rocky exoplanet outside the Solar System using the James Webb Space Telescope (JWST).
+
+What makes this exciting is that we are beginning to move beyond simply asking whether rocky exoplanets have atmospheres. With JWST, we are now starting to directly study the geology and surface properties of worlds around other stars — something that was essentially impossible just a few years ago. This emerging field is sometimes called “exogeology.”
+
+The planet, LHS 3844 b, is located about 49 light-years away and orbits its small red dwarf star every 11 hours. It is roughly 30% larger than Earth and reaches dayside temperatures of around 1000 K (~700°C). In short: not exactly a nice place to live.
+
+Using JWST’s mid-infrared instrument (MIRI), we observed the planet disappearing behind its host star during so-called secondary eclipses. During those eclipses, the thermal emission from the planet temporarily vanishes, allowing us to isolate the planet’s own light. Even though the signal is tiny, JWST detected it extremely clearly.
+
+In this animation, you can see the data we collected for the planet and how the flux drops when the planet temporarily disappears behind its star.
+
+![JWST data collected from LHS 3844 b](/images/fig_animation_phasefolded_fig1_style3)
+*Credits: Sebastian Zieba (CfA)*
+
+Our observations suggest that the surface of LHS 3844 b is dark and likely basaltic, similar to volcanic rocks found on bodies like Mercury or the Moon. The surface may also be heavily altered by long-term space weathering from stellar radiation and micrometeorite impacts.
+
+At the same time, we do not find evidence for a substantial atmosphere or volcanic gases such as CO₂ or SO₂. The data therefore point toward a mostly bare rocky surface rather than an atmosphere-dominated planet. We can also rule out granite-like surface compositions similar to Earth’s continental crust, suggesting a very different geological history from our own planet.
+
+We are already continuing this work with additional JWST observations to better understand whether the planet’s surface is relatively fresh volcanic rock or an older surface covered in space-weathered regolith.
+
+📄 [Nature Astronomy paper](https://www.nature.com/articles/s41550-026-02860-3): 
+*The dark and featureless surface of rocky exoplanet LHS 3844 b from JWST mid-infrared spectroscopy*
+📄 [Open Access ArXiv link](https://arxiv.org/abs/2605.00100).
+
+
+2024: Doctorate thesis: Pushing the characterization of exoplanet atmospheres down to temperate rocky planets in the era of JWST
 ----------------------------------------------------------------------------------------------------------------------
 
 Leiden University hosts my doctoral thesis on their website, which is openly accessible [here](https://hdl.handle.net/1887/3765836).
