@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral researcher (NASA Sagan Fellow) at the Center for Astrophysics | Harvard & Smithsonian (Cambridge, USA)
+Postdoctoral researcher (NASA Sagan Fellow) at the Center for Astrophysics, Harvard & Smithsonian (Cambridge, USA)
 
 In September 2024, I joined the Smithsonian Astrophysical Observatory at the CfA as a [NASA Sagan Fellow](https://science.nasa.gov/missions/hubble/nasa-awards-astrophysics-postdoctoral-fellowships-for-2024/) to characterize the surfaces and atmospheres of rocky exoplanets using JWST.
 
