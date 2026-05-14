@@ -44,6 +44,13 @@ Below are some Press Releases on this publication, with each of those containing
 
 [Penn State Press Release](https://www.psu.edu/news/eberly-college-science/story/first-look-distant-rocky-planet-reveals-moon-world)
 
+And some other articles:
+
+[Sky And Telescope Article](https://skyandtelescope.org/astronomy-news/nearby-super-earth-has-no-atmosphere/)
+
+[Reuters Article](https://www.reuters.com/science/astronomers-get-best-look-yet-surface-an-exoplanet-2026-05-08/)
+
+
 2024: Doctoral thesis: Pushing the characterization of exoplanet atmospheres down to temperate rocky planets in the era of JWST
 ----------------------------------------------------------------------------------------------------------------------
 
@@ -126,4 +133,4 @@ My Twitter (X) thread on the paper:
 [ADS link to paper here](https://ui.adsabs.harvard.edu/abs/2019A%26A...625L..13Z/abstract)
 
 
-(last revised May 6, 2026)
+(last revised May 14, 2026)

@@ -44,5 +44,5 @@ About me
 I grew up in Salzburg, Austria. After finishing high school, I moved to Innsbruck to study physics and astrophysics. Between 2020 and 2024, I lived in Heidelberg, Germany, where I was a PhD student at the Max Planck Institute for Astronomy (MPIA) in the Atmospheric Physics of Exoplanets (APEx) department. I now work in Cambridge, Massachusetts, as a NASA Sagan Fellow.
 
 
-(last revised May 6th, 2026)
+(last revised May 14, 2026)
 
